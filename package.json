@@ -1,0 +1,16 @@
+{
+  "name": "mickeys-first-javascript-action",
+  "version": "1.0.0",
+  "description": "I am a javascript action build by following the documentation from github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.0"
+  }
+}
